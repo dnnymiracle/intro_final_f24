@@ -76,7 +76,6 @@ Update the website with information.
    ```
 
    - Replace `your-photo.jpg` with the actual filename of your image.
-
 ### 5. **Change the Button Color to Green**
 
 1. Open the `styles.css` file in your editor.
